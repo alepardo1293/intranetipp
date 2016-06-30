@@ -1,0 +1,169 @@
+.version.index /* version checker */
+{
+	color: #000013;
+	background-color: #A26172;
+}
+
+#page
+{
+	background-color: transparent;
+	z-index: 1;
+	border-width: 0px;
+	background-image: none;
+	margin-left: auto;
+	width: 100%;
+	margin-right: auto;
+	border-color: #000000;
+}
+
+#u1786
+{
+	z-index: 2;
+	position: relative;
+	background: transparent url("../images/img_2762.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u149
+{
+	background-color: #294C8E;
+	z-index: 3;
+	margin-right: -10000px;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=28.999999999999996)";
+	opacity: 0.29;
+	position: relative;
+	filter: alpha(opacity=28.999999999999996);
+}
+
+#u1010
+{
+	background-color: transparent;
+	z-index: 4;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u1006
+{
+	width: 100%;
+	z-index: 5;
+	display: block;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+}
+
+@media (min-width: 321px)
+{
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 438px;
+		padding-bottom: 62px;
+		max-width: 962px;
+	}
+
+	#u1786
+	{
+		width: 99.8%;
+	}
+
+	#u149
+	{
+		height: 547px;
+		width: 100.21%;
+	}
+
+	#u1010
+	{
+		margin-top: 136px;
+		width: 29.48%;
+		left: 34.8%;
+	}
+
+	#u1601-4
+	{
+		z-index: 6;
+		min-height: 76px;
+		background-color: transparent;
+		color: #FFFFFF;
+		line-height: 77px;
+		font-size: 64px;
+		font-family: raleway, sans-serif;
+		font-weight: 800;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 192px;
+		width: 34.38%;
+		left: 32.92%;
+	}
+
+}
+
+@media (max-width: 320px)
+{
+	#muse_css_mq
+	{
+		background-color: #000140;
+	}
+
+	#bp_320.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 500px;
+		max-width: 320px;
+	}
+
+	#page_position_content
+	{
+		margin-top: -9px;
+		padding-bottom: 62px;
+		width: 100%;
+	}
+
+	#u1786
+	{
+		padding-bottom: 8px;
+		width: 100%;
+	}
+
+	#u149
+	{
+		height: 464px;
+		margin-top: -8px;
+		width: 100%;
+	}
+
+	#u1010
+	{
+		margin-top: 148px;
+		width: 29.38%;
+		left: 35.32%;
+	}
+
+	body
+	{
+		min-width: 320px;
+	}
+}
+
