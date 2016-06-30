@@ -1,0 +1,100 @@
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		max-width: 960px;
+	}
+
+	#u1776,#u1776-bw,#u272,#u272-bw
+	{
+		height: 480px;
+	}
+
+	#u804
+	{
+		margin-top: 103px;
+		width: 12.09%;
+		left: 44.69%;
+	}
+
+	#u1626-4
+	{
+		z-index: 6;
+		min-height: 52px;
+		background-color: transparent;
+		color: #FFFFFF;
+		line-height: 54px;
+		font-size: 45px;
+		font-family: raleway, sans-serif;
+		font-weight: 800;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 62px;
+		width: 23.65%;
+		left: 38.96%;
+	}
+
+	#u1636
+	{
+		z-index: 10;
+		margin-top: 112px;
+		width: 37.82%;
+		left: 31.88%;
+	}
+
+	#u1644-4
+	{
+		z-index: 11;
+		margin-top: 205px;
+		width: 5.32%;
+		left: 35.63%;
+	}
+
+	#u1648
+	{
+		z-index: 15;
+		margin-top: 223px;
+		width: 34.17%;
+		left: 34.59%;
+	}
+
+	#u1652-4
+	{
+		z-index: 16;
+		margin-top: 274px;
+		width: 8.65%;
+		left: 35.63%;
+	}
+
+	#u1658
+	{
+		z-index: 20;
+		margin-top: 292px;
+		width: 34.17%;
+		left: 34.59%;
+	}
+
+	#u1664
+	{
+		z-index: 21;
+		margin-top: 341px;
+		width: 34.17%;
+		left: 34.59%;
+	}
+
+	#u1668-4
+	{
+		z-index: 22;
+		width: 29.58%;
+		left: 35.37%;
+	}
+
+

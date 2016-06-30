@@ -1,0 +1,48 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ipp.pe" resolutions="1x" timestamp="1467319362801">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="datos.css" crc="4282788218" ref="datos"/>
+    <file name="nomq_datos.css" crc="3887496932" ref="datos"/>
+    <file name="log-in.css" crc="3773692964" ref="log-in"/>
+    <file name="nomq_log-in.css" crc="23706410" ref="log-in"/>
+    <file name="horario.css" crc="4133019026" ref="horario"/>
+    <file name="index.css" crc="329408882" ref="index"/>
+    <file name="nomq_index.css" crc="4136623996" ref="index"/>
+    <file name="menu.css" crc="3927783966" ref="menu"/>
+    <file name="nomq_menu.css" crc="4125694793" ref="menu"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:log-in:menu:datos:horario"/>
+    <file name="museutils.js" crc="3790713428" ref="index:log-in:menu:datos:horario"/>
+    <file name="whatinput.js" crc="84559013" ref="index:log-in:menu:datos:horario"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:log-in:menu:datos:horario"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:log-in:menu:datos:horario"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index:log-in:menu:datos"/>
+    <file name="pie.js" crc="3827607177" ref="menu"/>
+  </folder>
+  <folder name="images">
+    <file name="img_2762.jpg" crc="3925528402" ref="index:log-in"/>
+    <file name="ipp.svg" crc="453612526" ref="index"/>
+    <file name="ipp_poster_.png" crc="285158384" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:log-in:menu:datos"/>
+    <file name="logo-ipp.svg" crc="4189775568" ref="log-in:menu:datos:horario"/>
+    <file name="logo ipp_poster_.png" crc="441824717" ref="log-in"/>
+    <file name="img_2762-u1744-fr.jpg" crc="4095775148" ref="menu:datos:horario"/>
+    <file name="icono-5.svg" crc="4108179804" ref="menu"/>
+    <file name="icono 5_poster_.png" crc="441824717" ref="menu"/>
+    <file name="icono-1.svg" crc="4126029533" ref="menu"/>
+    <file name="icono 1_poster_.png" crc="441824717" ref="menu"/>
+    <file name="icono-2.svg" crc="525354564" ref="menu"/>
+    <file name="icono 2_poster_.png" crc="441824717" ref="menu"/>
+    <file name="icono-3.svg" crc="92502017" ref="menu"/>
+    <file name="icono 3_poster_.png" crc="441824717" ref="menu"/>
+    <file name="icono-4.svg" crc="4181870518" ref="menu"/>
+    <file name="icono 4_poster_.png" crc="441824717" ref="menu"/>
+    <file name="img_2762-u1744-fr2.jpg" crc="210174213" ref="menu:datos"/>
+  </folder>
+  <file name="index.html" crc="35124882" seo="true" mt="1466716472502" redirect="true"/>
+  <file name="log-in.html" crc="4164353209" seo="true" mt="1466716620090" redirect="true"/>
+  <file name="menu.html" crc="3794740565" seo="true" mt="1467318071100" redirect="true"/>
+  <file name="datos.html" crc="3772693783" seo="true" mt="1467318121839" redirect="true"/>
+  <file name="horario.html" crc="94628604" seo="true" mt="1467318055530" redirect="true"/>
+</manifest>
